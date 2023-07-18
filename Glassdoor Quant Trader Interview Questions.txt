@@ -1,0 +1,233 @@
+make a market (buy/sell prices, number of items to buy/sell) on the sum or the product of two 6-sided dice
+
+6 people sit randomly around a round table. What is the probability that they sit in order by their age?
+
+roll d-6 and d-10 dice, you will get the value of the sum of the two dice if you bid correctly, what would you bid.
+
+If there are 8 people and they all shake hands with each other once, how many handshakes were there? If there are four couples in the 8 people that don't shake hands with each other, now how many handshakes are there?
+
+If you have x amount of coins, in how many stacks and how many coins per stack would you put in order to maximize the product between the stacks.
+
+Estimate and trade on the number of trees in the amazon
+
+How much water is in an Olympic swimming pool in gallons?
+
+expected value of dice roll cubed
+
+What is 3/32 in decimal
+
+3 random points in a circumference, what is the probability that if a table with legs on those places was made it would stand
+
+Angle on a clock at 10:15? At what time will the hands overlap first time?
+
+Estimate How many ways of adding three positive integers to get 25.
+
+Eight quants from different banks are getting together for drinks. They are all interested in knowing the average salary of the group. Nevertheless, being cautious and humble individuals, everyone prefers not to disclose his or her own salary to the group. Can you come up with a strategy for the quants to calculate the average salary without knowing other people's salaries?
+
+Is raining on Sunday independent of saturday?
+
+We toss coin until either the sequence of HHT appears, or HTH. WHat is probability that HHT appears first. How about unfair coin with probability p
+
+Getting heads-tails-heads and heads-heads-tails are equiprobable after 3 coin flips. But if I keep flipping a coin, I'm more likely to get one of these combinations than the other. Why is that?
+
+Expected number of tries to get 3 consecutive heads in coin flips
+
+if you have 5 digits what is the largest number you can create whilst keeping the product 120, can you make it arbitrary large if we remove the restriction on number of digits?
+
+What is the smallest number whose digits multiply into 216. What about 10,000?
+
+Calculate the probability of getting 3 heads after 4 coin flips. What is the probability of getting an odd number of heads for 4 flips? What about for 9? What about for N flips?
+
+With dates written DD/MM/YYYY What is the next date with no repetition of a digit?
+
+What is the probability that the product of two dice rolls is a square number?
+
+Two symmetric dice have both had two of their sides painted red, two painted black, one painted yellow, and the other painted white. When this pair of dice is rolled, what is the probability that both dice land with the same color face up?
+
+How would you estimate the deepest mountain in the sea.
+
+How many tosses do you need to ensure 4 tails with a probability of 0.7?
+
+The probability of raining on Saturday is 30%, probability of raining on Sunday is 40% (a) What is the probability of raining on weekend? (b) What is the assumption made? (c) If not independent, what is the maximum and minimum probability of rain? 
+
+You have 12 identical balls, one ball is heavier than the rest (you don't know which). Using just a balance which can only show which side is heavier, what is the minimum number of times you can use the weight to find the heavier ball?
+
+Roll a six-sided die, if I get a larger number than the opponent, I get $1. What's the expected winning?
+
+How many expected coin tosses before you get 5 heads in a row?
+
+If you get a dollar for every head you roll in a coin flip, what is the expected amount you'll make with 4 flips?
+
+You have 16 watermelons and a seesaw. minimum number of tests to determine heaviest 2.
+
+What's the birth weight of a baby elephant?
+
+You have a box of 8 coins. 7 of them are normal fair coins, while 1 has tails on both sides. You pick a coin at random from the box and toss it 3 times, and get 3 tails. The probability that the coin you chose was one with tails on both sides can be expressed in the form M /N, where M and V are relatively prime positive integers (i.e. their greatest common divisor is 1). Compute M + N.
+
+The price of a stock starts at 100 dollars, then drops 1%, then grows 1%, then drops 1% again and so on. What does the price converge to?
+
+If a robot is on a table 20cm wide. His starting point is 3cm away from one of the edges. He moves 1 step at a time either 10 cm left or right with equal probability. After how many steps is he expected to fall?
+
+what is a call option?
+
+expected number of rolls of a dice to get a 6
+
+There are 27 horses. You can race 5 horses at a time. How many races will it take to find the top 3 fastest horses.
+
+What is the lowest multiple of 15 only containing numbers 1 and 0
+
+given a six-sided die, what's the expected value of the difference between two die rolls?
+
+The sum of the odd numbers from 1 to 60.
+
+A bag has three coins in it which are visually indistinguishable, but when flipped, one coin has a 10% chance of coming up heads, another as a 30% chance of coming up heads, and the last has 60% chance of coming up heads. I randomly draw a coin from the bag and flip it, and the result comes up heads. What is the probability that if I reflip this coin, it will come up heads again? Why?
+
+We have two urns. You can't tell them apart from the outside, but one has seven $1 chips and three $10 chips, and the other has nine $1 chips and one $10 chip. You randomly draw a chip from one of the urns and it happens to be a $10 chip. Without replacing this draw, I offer you a chance to draw and keep a chip from either urn. Should you draw from the same urn or the opposite urn, and what is the expected value of the chip you draw? Why?
+
+You have been chosen to play a game involving a 6-sided die. You get to roll the die once, see the result, and then may choose to either stop or roll again. Your payoff is the sum of your rolls, unless this sum is greater than 9, in which case you "bust" and get nothing. What is your strategy for this game? That is, for each possible outcome of the first roll will you choose stop or to roll again?
+
+We randomly select 4 numbers from the set of the first 20 prime numbers, without replacement. What is the probability their sum is even? Why?
+
+Person A has a 20-sided dice and person B has three 6-sided dice. They both roll their dice and whoever gets a bigger number/sum of numbers wins the game. Is it a fair game? Same game with one more player C who has a 20-sided dice. Is this new game fair? (all dice are fair; a 20-sided dice has number 1,2,…, 20 on each of its 20 sides)
+
+ Person A and B are going to play a coin toss game. There is an initial score 0, and whenever a head/tail appears, the score +1/-1. Repeating the coin toss until one wins, that is, when the score reaches +2/-2, A/B wins the game. There is also an initial stake $1 for the game and person A has the option to double the stake every time before a coin toss. When one person wins the game, the other player needs to pay the amount of dollars on the stake to the winner. The question is: if you are person A, what is your strategy and what is your highest expected payoff of the game?
+
+A, B, C, D and E need to sit around a circular table. A does not want sit next to E or B. D sits to the right of B. B sits to the right of E. Who sits to the left of E?
+
+A and B play the game rocks (R), scissors (S), paper (P). You know that they never drew. Moreover, A played 3R, 1P and 6S, whereas B played 2R, 4P. How many times did A win?
+
+You roll 3 dice. If you get the same number, you earn 10 $. If you get two numbers the same, you get 5 $. If the numbers are all different, you lose 2 $. What is the expected win?
+
+There are two racks, X and Y. X contains red (R) socks with probability 0.4 and black (B) socks with probability 0.6. Y contains R with probability 0.7 and B with probability 0.3. I pick a rack randomly. From that rack, I pick 2R. What is the probability that those 2R come from rack X?
+
+You flip a weighted coin that comes up H with probability 0.4 and T with probability 0.6. If you flip the coin 5 times, what is the probability that you see at least 3 tails?
+
+A can finish a job in 100 min, B can finish the same job in 120 min. A and B work together on this job, but after 40 min C comes to help them and they finish the job in additional 10 min. How long would it take to C to finish the job by himself?
+
+If it is a good day (G) there are 60% chances tomorrow will be G and 40% chances tomorrow will be bad (B). If it is a B day, there 30% chances tomorrow will be G and 70% chances tomorrow will be B. If today is B, what is the expected number of days before seeing another B?
+
+You have a 6-face die and a 10-face die. What is the expected value of the sum of the two?
+
+There is a clock with the numbers from 1-12. It breaks into 3 pieces with equal sums of the numbers on them. What are the 3 pieces the clock broke up into?
+
+How many liters of water are there in a standard swimming pool?
+
+Estimate the number of electric cars sold last year globally.
+
+There are 1000 people in a hall. One person had his hand painted. Every minute everyone shake their hand with someone else. How much time is needed to paint all the hands? What is the best scenario? What is the worst scenario?
+
+you and a friend are playing a coin tossing game. You will be tossing a coin and tracking the results. You each have a sequence you're looking for. Your sequence is HTT, your friends sequence is HHT. the player whos sequence appears first in the game wins. Would you want to play? What is your probability of winning?
+
+100-side dice with number 1,2,...,100 on each side. You get paid $50 if you roll a 50, $75 if you roll a 75 etc. If you are unsatisfied with the result, you can pay $1 to roll again, you can roll as many times as you want. Question: what's the maximal amount you are willing to pay to enter this game (roll for the first time). Note that each subsequent play you only need to pay $1 to play again. What's your strategy?
+
+You stand in front of 5 doors and you can randomly pick one to open. One has a prize of $10000 while others have a punishment of $1000 each behind the door. Suppose now you are offered an option. With this option, you can randomly pick one door and see what behind the door. How much is this option worth?
+
+Calculate the sum of all even numbers from 0 to 100.
+
+Suppose there are 12 cards, from 1 to 12. You can pay me some amount of money to draw a card, and I'll pay the number you drew. What amount are you willing to pay?
+
+What is the angle between both hands on the clock at 9:40?
+
+6 people sitting around in a circle, probability for them to sit in increasing age (either clockwise or counter-clockwise)?
+
+sum of all odd integers from 1 to 50
+
+Throw 1,000 fair coins, what's the possibility of getting even number of heads?
+
+You have a drawer with an infinite number of two colors of socks, which exist in equal probability. What is the expected number of attempts at taking out socks individually from the drawer before a matching pair is found?
+
+I play a game where I start with a score of 100. I then flip 10 coins in a row. Every time I get a head I add 1 to my score. When I get a tails I take the reciprocal of my score. If you are running this game, and people are given their score in pounds at the end of the game, how much would you charge people to play?
+
+If I flip 100 coins and then multiply the number of heads by the number of tails, what is the expected value of that number? Can you give a confidence interval on this number?
+
+90% confidence interval for length of roads in UK
+
+You are given two ropes that when lit burn in one hour. Which one of the following CANNOT be measured? a) 50 min b) 30 min c) 25 min d) 35 min.
+
+Angle between hands on a clock at 9:15AM
+
+How many lakes are there in the world?
+
+440 legs twice as many chickens as cows twice as many spiders as chickens. How many spiders?
+
+simple maths without a calculator to see how fast you can do it 58*65
+
+Sum of all prime numbers between 1 and 100 that are 1 less than a multiple of 5 and 1 greater than a multiple of 4.
+
+What is the weight of an iPhone if it were made out of gold
+
+What is the weight of a tennis ball if it were made out of gold
+
+Log 326
+
+2 people flip a coin 4 times each. What is the probability that the two people have the same number of heads at the end?
+
+You have a bag of coins of which one half are real and the other half are fake. You need to pay for 1 1/2 hours of parking at a meter where one quarter gives you 15 minutes. Every time you put in a fake quarter the meter time is reset to 0. How many coins will you have to pull out of the bag ?
+
+a) The odds of having pizza on a Saturday are 60%, on Sunday, 30%. What are the odds of having pizza at least once during the weekend? b) How do the odds change if you are only allowed pizza on one of the two days? c) What about if you can only have pizza on Sunday if you had it on Saturday first?
+
+Decompose 300,000 into prime factors, then arrange the resulting digits into the smallest possible number.
+
+Make a market on how many people have been born in the history of the world.
+
+What is the square root of 918
+
+Find expected value of number of rolls it takes to roll each unique value on a die.
+
+You have all the clubs from a deck, 13 cards, and you can choose 2 from the deck and get paid their product, where all face cards are considered to be 0. You can pay $1 to reveal the difference of any two cards you choose, how much would you pay to play this game?
+
+give you 50 white and 50 black balls, two box. allocate the balls in the box, pick one ball from one of the box, what is the highest and lowest probability of getting a white one?
+
+Two teams are playing a best-of-7 tournament. Each team has a 50% chance of winning. What is the probability that they reach the 7th game?
+
+what's the chance 12 coins tossed having an even number of heads.
+
+
+What are the three words that describes you?
+Why Optiver?
+Why Trading?
+Tell us about yourself
+Why do you want to work at Jane Street?
+Why IMC and why trading?
+Why trading? Why SIG?
+What do you know about IMC ?
+Why are you interested in trading? Why Akuna?
+Why Optiver? Why Trading? If you have multiple offers how will you decide?
+What is your experience in a fast-paced working environment?
+What are your 3 biggest strengths and weaknesses?
+what other companies have you applied for
+Describe how you could add value to the team?
+Other than your hard qualifications, what soft skills are useful for this role?
+what is your motivation to join Akuna Capital, how do you think you will fit in
+describe your skills and interests that make you a good quantitative trader, when you are most driven to succeed, and personal hobby
+What makes you stand out from the rest of the applicants?
+what would you do if money were not an issue?
+An instance when you were not able to deliver a project successfully
+Can you tell me a period (from your internships) that you receive bad remarks?
+What are their potential competing candidates and other companies that they should pay attention to?
+What are the key factors you pay attention to when choosing companies?
+Which office prefer? Chicago or Huston?
+What is your biggest achievement
+What is your favourite subject at University and why
+what are you passionate about
+Explain market maker to ppl who doesn’t know it.
+what was a technical project you worked on?
+What's five traits you think make a good trader?
+What's five traits that others will describe you?
+What's five traits that you think you should improve?
+What's your advantage over other competitors?
+Tell me a time when you had to think strategically.
+What makes you useful to us and why do you want to work here?
+How a Market Maker firm makes money?
+Describe one thing that you really strive hard to achieve
+Tell me about your prior experience
+Why do I want to apply for financial domain
+Do you have any other offers? 
+What was a moment where you are very proud of achieving
+Walk me through your resume
+Do you follow the market recently? Do you know s&p 500?
+What would you do if you have a spare day?
+Tell us about a time when you get angry
+What was the most challenging feedback you received?
+How you collaborate with others
+If a coworker talks to you in a way you don't like, would you speak up and complain or adjust yourself?
