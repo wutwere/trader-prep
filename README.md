@@ -4,7 +4,7 @@ Resources to prepare for Quant Trader interviews.
 This contains everything I found useful to prepare for my upcoming Optiver Quant Trader Intern interview.
 
 # Links
-[Alcumus: Practice tool for math competitions](https://figgie.com/). Honestly the #1 way to improve at probability. Set difficulty to "Insanely Hard", enable "Advance Only on Mastery", and grind "Counting & Probability" until all topics are at least blue, then grind your weaknesses even further (for me, Constructive Counting, Counting with Symmetry, Advanced Probability with Combinations)
+[Alcumus: Practice tool for math competitions](https://figgie.com/). Honestly the #1 way to improve at probability. Set difficulty to "Insanely Hard", enable "Advance Only on Mastery", and grind "Counting & Probability" until all topics are at least blue, then grind your weaknesses even further (for me, Counting with Symmetry, Advanced Probability with Combinations)
 
 [Brainstellar: Contains 100? common puzzles](https://brainstellar.com/puzzles). Helpful for technical interviews. You should memorize most of these
 
